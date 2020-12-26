@@ -8,10 +8,10 @@
 
 <div align="center">
   
- ![GitHub repo size](https://img.shields.io/github/repo-size/claylton/to_do)
- ![GitHub](https://img.shields.io/github/license/claylton/to_do)
- ![GitHub top language](https://img.shields.io/github/languages/top/claylton/to_do)
- ![GitHub last commit](https://img.shields.io/github/last-commit/claylton/to_do)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/claylton/Dice-Roller)
+ ![GitHub](https://img.shields.io/github/license/claylton/Dice-Roller)
+ ![GitHub top language](https://img.shields.io/github/languages/top/claylton/Dice-Roller)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/claylton/Dice-Roller)
 
 </div>
 
